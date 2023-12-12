@@ -1,0 +1,501 @@
+model,price,fuel_efficiency,horsepower,color,description
+Corolla,20718,30.23729613784721,123,Red,"Reliable compact car, great fuel efficiency"
+Corolla,20118,28.630589756251595,130,Blue,"Reliable compact car, great fuel efficiency"
+Corolla,20480,28.133399410116958,134,Red,"Reliable compact car, great fuel efficiency"
+Corolla,19863,28.3964897672031,133,Blue,"Reliable compact car, great fuel efficiency"
+Corolla,19127,30.29062744875505,126,Silver,"Reliable compact car, great fuel efficiency"
+Corolla,19568,30.694638185375666,133,Silver,"Reliable compact car, great fuel efficiency"
+Corolla,20392,29.941255526328643,123,Red,"Reliable compact car, great fuel efficiency"
+Corolla,19746,31.346922837549208,141,Blue,"Reliable compact car, great fuel efficiency"
+Corolla,19288,28.443479946215646,128,Black,"Reliable compact car, great fuel efficiency"
+Corolla,19469,28.640602218351347,124,Red,"Reliable compact car, great fuel efficiency"
+Corolla,20290,28.604385172281027,135,Silver,"Reliable compact car, great fuel efficiency"
+Corolla,20412,31.664176170148775,137,Silver,"Reliable compact car, great fuel efficiency"
+Corolla,20634,30.70425702068805,139,Blue,"Reliable compact car, great fuel efficiency"
+Corolla,20134,28.133797957089048,132,Red,"Reliable compact car, great fuel efficiency"
+Corolla,20304,28.40893637744525,130,Red,"Reliable compact car, great fuel efficiency"
+Corolla,20063,30.975476740068444,132,Silver,"Reliable compact car, great fuel efficiency"
+Corolla,20969,30.58313059863053,139,Black,"Reliable compact car, great fuel efficiency"
+Corolla,19116,28.019548700523565,136,Black,"Reliable compact car, great fuel efficiency"
+Corolla,19662,31.549891337811513,135,Silver,"Reliable compact car, great fuel efficiency"
+Corolla,19999,31.873648821800113,132,White,"Reliable compact car, great fuel efficiency"
+Corolla,19849,30.499803214148084,130,Blue,"Reliable compact car, great fuel efficiency"
+Corolla,20932,31.623860799145408,138,Black,"Reliable compact car, great fuel efficiency"
+Corolla,19556,28.91196803064708,138,White,"Reliable compact car, great fuel efficiency"
+Corolla,20390,31.00134406153394,126,White,"Reliable compact car, great fuel efficiency"
+Corolla,19143,29.313232413375765,138,Black,"Reliable compact car, great fuel efficiency"
+Corolla,19793,28.263896874997904,133,Silver,"Reliable compact car, great fuel efficiency"
+Corolla,19166,29.54306751388912,132,Red,"Reliable compact car, great fuel efficiency"
+Corolla,19652,31.8592823190385,132,Red,"Reliable compact car, great fuel efficiency"
+Corolla,19536,31.63597125290426,134,Red,"Reliable compact car, great fuel efficiency"
+Corolla,19669,30.737400840264062,125,Silver,"Reliable compact car, great fuel efficiency"
+Corolla,19938,30.54536316343757,125,Blue,"Reliable compact car, great fuel efficiency"
+Corolla,19252,29.378256422562643,127,White,"Reliable compact car, great fuel efficiency"
+Corolla,19574,28.448402999968213,129,Red,"Reliable compact car, great fuel efficiency"
+Corolla,20098,31.69009318055152,140,White,"Reliable compact car, great fuel efficiency"
+Corolla,20376,31.29793993668029,122,Black,"Reliable compact car, great fuel efficiency"
+Corolla,20282,29.999358448357125,134,White,"Reliable compact car, great fuel efficiency"
+Corolla,20515,28.56397081755109,133,Blue,"Reliable compact car, great fuel efficiency"
+Corolla,19193,30.146397201822147,135,Red,"Reliable compact car, great fuel efficiency"
+Corolla,19252,28.75657553751046,133,Black,"Reliable compact car, great fuel efficiency"
+Corolla,19293,29.40702435543874,132,Silver,"Reliable compact car, great fuel efficiency"
+Corolla,20298,29.59237039399411,131,Black,"Reliable compact car, great fuel efficiency"
+Corolla,19950,31.151523873158922,123,Red,"Reliable compact car, great fuel efficiency"
+Corolla,20434,28.712351899307833,126,Black,"Reliable compact car, great fuel efficiency"
+Corolla,19958,31.36340267216899,133,Red,"Reliable compact car, great fuel efficiency"
+Corolla,20461,31.120617599014196,136,Blue,"Reliable compact car, great fuel efficiency"
+Corolla,19568,29.17439589712241,139,White,"Reliable compact car, great fuel efficiency"
+Corolla,19741,30.83526419798974,132,Red,"Reliable compact car, great fuel efficiency"
+Corolla,19637,31.602217743105108,140,White,"Reliable compact car, great fuel efficiency"
+Corolla,20146,31.831009077501797,142,Silver,"Reliable compact car, great fuel efficiency"
+Corolla,19187,28.7933870606311,133,Red,"Reliable compact car, great fuel efficiency"
+Camry,24051,27.327970248152695,202,Blue,Spacious and comfortable midsize sedan
+Camry,24049,27.74944705183509,213,Red,Spacious and comfortable midsize sedan
+Camry,23423,26.936940706853115,205,Silver,Spacious and comfortable midsize sedan
+Camry,23373,27.82930908712251,193,White,Spacious and comfortable midsize sedan
+Camry,24238,27.174738065937095,194,White,Spacious and comfortable midsize sedan
+Camry,23405,29.528455986717525,200,Red,Spacious and comfortable midsize sedan
+Camry,24753,29.001118980570368,197,Blue,Spacious and comfortable midsize sedan
+Camry,23587,29.830831913932627,200,White,Spacious and comfortable midsize sedan
+Camry,23679,28.94018704280041,193,Silver,Spacious and comfortable midsize sedan
+Camry,23370,26.052567709248276,206,Black,Spacious and comfortable midsize sedan
+Camry,24869,27.246314815319906,197,Blue,Spacious and comfortable midsize sedan
+Camry,24484,29.23183437151065,213,Silver,Spacious and comfortable midsize sedan
+Camry,23534,26.8737810062799,210,Red,Spacious and comfortable midsize sedan
+Camry,23787,28.667274647780815,196,Silver,Spacious and comfortable midsize sedan
+Camry,24963,27.963716826587223,193,Blue,Spacious and comfortable midsize sedan
+Camry,23373,29.30732501695787,211,Silver,Spacious and comfortable midsize sedan
+Camry,24820,26.889265443898083,202,Black,Spacious and comfortable midsize sedan
+Camry,23752,27.26817070692835,193,Red,Spacious and comfortable midsize sedan
+Camry,23341,26.01745723185386,195,Black,Spacious and comfortable midsize sedan
+Camry,24755,27.430106411158093,208,Silver,Spacious and comfortable midsize sedan
+Camry,24365,28.82867527487558,194,Red,Spacious and comfortable midsize sedan
+Camry,24665,27.444425767986324,193,Blue,Spacious and comfortable midsize sedan
+Camry,23261,27.859147901491433,206,Blue,Spacious and comfortable midsize sedan
+Camry,23003,29.56370483703484,199,Red,Spacious and comfortable midsize sedan
+Camry,23447,26.532460372690085,197,Red,Spacious and comfortable midsize sedan
+Camry,23398,28.207230413450137,201,Black,Spacious and comfortable midsize sedan
+Camry,23175,27.968613167702117,198,Blue,Spacious and comfortable midsize sedan
+Camry,23541,28.867198152811042,209,Silver,Spacious and comfortable midsize sedan
+Camry,23298,28.013689202224565,194,Red,Spacious and comfortable midsize sedan
+Camry,24704,29.196562365218806,211,White,Spacious and comfortable midsize sedan
+Camry,23813,28.66513806032358,208,Black,Spacious and comfortable midsize sedan
+Camry,23365,29.79112240241308,202,White,Spacious and comfortable midsize sedan
+Camry,24333,28.540237842508805,195,Blue,Spacious and comfortable midsize sedan
+Camry,24893,27.136657187305786,198,White,Spacious and comfortable midsize sedan
+Camry,24756,27.123978944340656,194,Red,Spacious and comfortable midsize sedan
+Camry,23895,28.520649781967002,194,Red,Spacious and comfortable midsize sedan
+Camry,23793,28.956446979539457,209,White,Spacious and comfortable midsize sedan
+Camry,24870,27.035767623525615,213,Blue,Spacious and comfortable midsize sedan
+Camry,24251,28.916699528842642,212,Black,Spacious and comfortable midsize sedan
+Camry,23715,27.61214487527044,201,Black,Spacious and comfortable midsize sedan
+Camry,24030,29.614469299500083,194,Blue,Spacious and comfortable midsize sedan
+Camry,23970,27.814430446874848,193,Red,Spacious and comfortable midsize sedan
+Camry,24574,26.459498259711992,193,Red,Spacious and comfortable midsize sedan
+Camry,24044,26.560221295170656,199,White,Spacious and comfortable midsize sedan
+Camry,24436,28.723563385587,198,White,Spacious and comfortable midsize sedan
+Camry,24144,27.005403586578076,199,White,Spacious and comfortable midsize sedan
+Camry,24003,26.439545281721642,203,Black,Spacious and comfortable midsize sedan
+Camry,24043,29.410692299560914,199,Black,Spacious and comfortable midsize sedan
+Camry,24694,28.476861428609745,208,Silver,Spacious and comfortable midsize sedan
+Camry,23813,29.60739209468293,196,White,Spacious and comfortable midsize sedan
+Prius,23784,51.12538676465967,128,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,23665,50.108891949300244,123,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,24877,51.10080511423369,126,Blue,Eco-friendly hybrid with outstanding fuel economy
+Prius,24528,51.62741846034943,125,Silver,Eco-friendly hybrid with outstanding fuel economy
+Prius,24553,49.973051265207104,116,Blue,Eco-friendly hybrid with outstanding fuel economy
+Prius,23859,50.433948231917896,129,Blue,Eco-friendly hybrid with outstanding fuel economy
+Prius,23622,48.14020399820591,131,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,24920,51.789235283478476,129,Silver,Eco-friendly hybrid with outstanding fuel economy
+Prius,23616,51.556605960905145,124,Red,Eco-friendly hybrid with outstanding fuel economy
+Prius,24679,48.631845723071166,121,Silver,Eco-friendly hybrid with outstanding fuel economy
+Prius,24262,48.62196556721556,131,Silver,Eco-friendly hybrid with outstanding fuel economy
+Prius,24525,48.86395248835976,126,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,24001,50.26155734390852,114,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,23106,51.7304720102872,131,Blue,Eco-friendly hybrid with outstanding fuel economy
+Prius,24833,48.72450917074805,124,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,23910,48.29798623010284,129,Red,Eco-friendly hybrid with outstanding fuel economy
+Prius,23573,48.6437033251236,123,Blue,Eco-friendly hybrid with outstanding fuel economy
+Prius,23723,49.310991375427584,118,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,23785,50.00339342504197,117,Red,Eco-friendly hybrid with outstanding fuel economy
+Prius,24802,48.13811965062632,120,Red,Eco-friendly hybrid with outstanding fuel economy
+Prius,24984,48.3494399018268,128,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,23696,49.56828216597306,126,Red,Eco-friendly hybrid with outstanding fuel economy
+Prius,23446,50.4284451703616,129,Blue,Eco-friendly hybrid with outstanding fuel economy
+Prius,23647,50.755867895517646,128,Silver,Eco-friendly hybrid with outstanding fuel economy
+Prius,24410,49.51747919147057,118,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,24512,49.56159541295307,121,Blue,Eco-friendly hybrid with outstanding fuel economy
+Prius,24303,48.534883653649985,129,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,24792,48.53970609251892,121,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,23455,48.67171982144382,113,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,24635,49.64907867570433,122,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,23076,49.991322056769384,130,Red,Eco-friendly hybrid with outstanding fuel economy
+Prius,24752,49.45824596054857,114,Red,Eco-friendly hybrid with outstanding fuel economy
+Prius,24310,51.71299810447341,127,Red,Eco-friendly hybrid with outstanding fuel economy
+Prius,24946,48.767152968444435,115,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,24759,49.62539118874645,119,Silver,Eco-friendly hybrid with outstanding fuel economy
+Prius,23998,50.311668267851495,129,Silver,Eco-friendly hybrid with outstanding fuel economy
+Prius,24452,51.55132132136458,128,Silver,Eco-friendly hybrid with outstanding fuel economy
+Prius,24618,50.15707234209189,116,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,23178,51.049982947796636,125,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,24086,48.46844101114698,120,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,24629,48.60472412573472,125,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,23848,48.40199801342147,130,Red,Eco-friendly hybrid with outstanding fuel economy
+Prius,23989,49.37141136242406,127,Silver,Eco-friendly hybrid with outstanding fuel economy
+Prius,24605,50.20549576681311,111,Red,Eco-friendly hybrid with outstanding fuel economy
+Prius,24578,51.73345166113547,130,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,24954,51.78698350813007,127,Silver,Eco-friendly hybrid with outstanding fuel economy
+Prius,24971,49.49403737041822,126,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,24351,49.956209659089,121,Black,Eco-friendly hybrid with outstanding fuel economy
+Prius,24187,50.77881686926344,114,White,Eco-friendly hybrid with outstanding fuel economy
+Prius,24977,48.947398385043215,129,Silver,Eco-friendly hybrid with outstanding fuel economy
+Aqua,20633,41.09191075625831,98,Red,"Compact hybrid, excellent city car"
+Aqua,20888,41.92355540246982,99,Silver,"Compact hybrid, excellent city car"
+Aqua,20030,41.720170788386966,98,Black,"Compact hybrid, excellent city car"
+Aqua,20762,39.17771161364633,104,Blue,"Compact hybrid, excellent city car"
+Aqua,20288,39.521329650321455,110,Red,"Compact hybrid, excellent city car"
+Aqua,19959,40.46638033322024,103,White,"Compact hybrid, excellent city car"
+Aqua,19994,40.181351407031556,107,Red,"Compact hybrid, excellent city car"
+Aqua,20700,41.237354839873454,109,Silver,"Compact hybrid, excellent city car"
+Aqua,20495,39.70592389005693,101,Red,"Compact hybrid, excellent city car"
+Aqua,20633,41.44827341861728,101,Blue,"Compact hybrid, excellent city car"
+Aqua,20061,39.227475374894425,97,Red,"Compact hybrid, excellent city car"
+Aqua,20941,39.74758070616839,93,Blue,"Compact hybrid, excellent city car"
+Aqua,19082,40.97016080649396,90,Black,"Compact hybrid, excellent city car"
+Aqua,20675,40.640498984815395,106,Black,"Compact hybrid, excellent city car"
+Aqua,20993,40.25847814958185,91,Black,"Compact hybrid, excellent city car"
+Aqua,19790,39.808456768743625,98,Blue,"Compact hybrid, excellent city car"
+Aqua,20647,38.02022407408275,97,White,"Compact hybrid, excellent city car"
+Aqua,19187,38.8554112705613,90,Blue,"Compact hybrid, excellent city car"
+Aqua,20410,41.71908898331727,101,Black,"Compact hybrid, excellent city car"
+Aqua,19457,39.01493298184817,104,Silver,"Compact hybrid, excellent city car"
+Aqua,20954,40.79269004955475,90,Black,"Compact hybrid, excellent city car"
+Aqua,19246,39.4083531438616,108,White,"Compact hybrid, excellent city car"
+Aqua,20833,38.40341494962077,102,Red,"Compact hybrid, excellent city car"
+Aqua,19278,40.027444095923535,94,Blue,"Compact hybrid, excellent city car"
+Aqua,19582,40.620366994307524,90,Blue,"Compact hybrid, excellent city car"
+Aqua,19148,38.04253441751645,106,White,"Compact hybrid, excellent city car"
+Aqua,20912,40.847481120624636,100,Blue,"Compact hybrid, excellent city car"
+Aqua,19891,38.10581228194812,108,Black,"Compact hybrid, excellent city car"
+Aqua,19145,39.92449911865632,105,Red,"Compact hybrid, excellent city car"
+Aqua,19288,39.753874586527644,100,White,"Compact hybrid, excellent city car"
+Aqua,20641,38.760249622224556,104,Red,"Compact hybrid, excellent city car"
+Aqua,19019,41.422020372405136,102,Red,"Compact hybrid, excellent city car"
+Aqua,19056,40.522726702889805,103,Black,"Compact hybrid, excellent city car"
+Aqua,19075,40.2966616339815,108,Blue,"Compact hybrid, excellent city car"
+Aqua,19990,38.10874259285914,106,Blue,"Compact hybrid, excellent city car"
+Aqua,19566,38.360324542456425,91,Blue,"Compact hybrid, excellent city car"
+Aqua,19989,40.635256208816976,100,Black,"Compact hybrid, excellent city car"
+Aqua,19502,41.40341065685487,105,Silver,"Compact hybrid, excellent city car"
+Aqua,20324,38.51178735889991,97,Blue,"Compact hybrid, excellent city car"
+Aqua,20398,41.270198400546505,94,White,"Compact hybrid, excellent city car"
+Aqua,20770,38.41491083855887,100,White,"Compact hybrid, excellent city car"
+Aqua,20486,40.594489453927956,90,Silver,"Compact hybrid, excellent city car"
+Aqua,20605,39.165403242252424,106,Red,"Compact hybrid, excellent city car"
+Aqua,20541,38.259277151446554,103,Black,"Compact hybrid, excellent city car"
+Aqua,19781,39.80770847322365,104,White,"Compact hybrid, excellent city car"
+Aqua,20623,39.20272642128725,110,Red,"Compact hybrid, excellent city car"
+Aqua,20260,38.19566008782134,95,Silver,"Compact hybrid, excellent city car"
+Aqua,20368,40.65758064398991,91,Silver,"Compact hybrid, excellent city car"
+Aqua,19785,41.899939337864076,94,Red,"Compact hybrid, excellent city car"
+Aqua,20892,41.16939718192134,100,Blue,"Compact hybrid, excellent city car"
+RAV4,25666,25.676742303917592,210,White,"Versatile SUV, suitable for families"
+RAV4,25685,23.534316959713454,208,Silver,"Versatile SUV, suitable for families"
+RAV4,26093,23.746016754677193,206,White,"Versatile SUV, suitable for families"
+RAV4,26619,25.095574369073265,200,Blue,"Versatile SUV, suitable for families"
+RAV4,25174,25.094963222297263,204,Silver,"Versatile SUV, suitable for families"
+RAV4,25987,23.659435925249163,198,Silver,"Versatile SUV, suitable for families"
+RAV4,26970,25.699672348763173,210,Red,"Versatile SUV, suitable for families"
+RAV4,26524,26.803971684064056,211,White,"Versatile SUV, suitable for families"
+RAV4,25738,23.31764388690101,195,White,"Versatile SUV, suitable for families"
+RAV4,26325,25.23752464104144,202,Red,"Versatile SUV, suitable for families"
+RAV4,25102,25.774947432962787,207,Black,"Versatile SUV, suitable for families"
+RAV4,26018,25.42867287740491,209,White,"Versatile SUV, suitable for families"
+RAV4,26748,24.025428605808628,199,Black,"Versatile SUV, suitable for families"
+RAV4,26817,25.01759251178213,201,Red,"Versatile SUV, suitable for families"
+RAV4,25193,25.320922233143644,208,Silver,"Versatile SUV, suitable for families"
+RAV4,25883,24.847144931546904,193,Silver,"Versatile SUV, suitable for families"
+RAV4,26046,24.605772410440192,208,Blue,"Versatile SUV, suitable for families"
+RAV4,25171,23.573246413079737,200,Blue,"Versatile SUV, suitable for families"
+RAV4,25595,26.46126700873381,199,Black,"Versatile SUV, suitable for families"
+RAV4,25139,23.364359431798533,197,White,"Versatile SUV, suitable for families"
+RAV4,25733,23.64265005435214,193,White,"Versatile SUV, suitable for families"
+RAV4,26946,25.522982188211035,210,Black,"Versatile SUV, suitable for families"
+RAV4,25657,24.372240185701934,199,Black,"Versatile SUV, suitable for families"
+RAV4,25610,23.12704945097444,203,Black,"Versatile SUV, suitable for families"
+RAV4,25218,25.78583699128707,200,Blue,"Versatile SUV, suitable for families"
+RAV4,25709,24.88707841729729,205,Red,"Versatile SUV, suitable for families"
+RAV4,26099,26.38035908419404,193,Silver,"Versatile SUV, suitable for families"
+RAV4,26601,26.292725874774412,206,Black,"Versatile SUV, suitable for families"
+RAV4,26499,26.51589172779341,211,White,"Versatile SUV, suitable for families"
+RAV4,25495,24.628126320426993,209,Blue,"Versatile SUV, suitable for families"
+RAV4,25365,23.941315553196148,210,Blue,"Versatile SUV, suitable for families"
+RAV4,25940,26.36460089667831,200,White,"Versatile SUV, suitable for families"
+RAV4,25592,25.331471310257275,208,White,"Versatile SUV, suitable for families"
+RAV4,26428,24.09959907518103,210,Silver,"Versatile SUV, suitable for families"
+RAV4,25403,25.814384851330562,202,Red,"Versatile SUV, suitable for families"
+RAV4,26187,24.90248256068213,206,Red,"Versatile SUV, suitable for families"
+RAV4,25005,26.162475260761415,199,Red,"Versatile SUV, suitable for families"
+RAV4,25879,25.69589920427527,213,White,"Versatile SUV, suitable for families"
+RAV4,25385,25.130249567989505,197,Silver,"Versatile SUV, suitable for families"
+RAV4,25327,23.661324474896386,204,Silver,"Versatile SUV, suitable for families"
+RAV4,25796,24.699203674847343,194,Blue,"Versatile SUV, suitable for families"
+RAV4,26533,26.175929831941822,203,Silver,"Versatile SUV, suitable for families"
+RAV4,25403,25.492173645697456,198,Blue,"Versatile SUV, suitable for families"
+RAV4,25994,25.333394593233194,205,Black,"Versatile SUV, suitable for families"
+RAV4,26503,23.87781830668878,201,Red,"Versatile SUV, suitable for families"
+RAV4,25055,24.68953181384354,203,Silver,"Versatile SUV, suitable for families"
+RAV4,25036,23.54291329510398,204,Silver,"Versatile SUV, suitable for families"
+RAV4,26081,24.281990790051452,197,Black,"Versatile SUV, suitable for families"
+RAV4,25899,23.88207463467032,196,Black,"Versatile SUV, suitable for families"
+RAV4,26481,25.982950132424282,196,White,"Versatile SUV, suitable for families"
+Land Cruiser,85299,14.159894684964604,381,Red,Luxury SUV with off-road capabilities
+Land Cruiser,84129,13.513352875721782,386,White,Luxury SUV with off-road capabilities
+Land Cruiser,84347,14.410166465943902,390,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,85264,13.54863058464789,377,Red,Luxury SUV with off-road capabilities
+Land Cruiser,85018,13.950790524545367,382,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,84625,11.306894211968457,373,Black,Luxury SUV with off-road capabilities
+Land Cruiser,85282,13.261571158205768,372,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,84880,12.55031730969981,383,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,84363,13.939405372339,378,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,85199,11.363984671460141,384,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,85969,13.423550535266752,386,Red,Luxury SUV with off-road capabilities
+Land Cruiser,85085,14.59630160055529,377,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,84828,13.141416612213863,386,Red,Luxury SUV with off-road capabilities
+Land Cruiser,85540,11.19271275391272,389,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,85269,13.041214522301964,391,Red,Luxury SUV with off-road capabilities
+Land Cruiser,85702,11.819191274019603,388,Black,Luxury SUV with off-road capabilities
+Land Cruiser,84108,11.519563609892018,378,Black,Luxury SUV with off-road capabilities
+Land Cruiser,84783,11.34113611619612,390,Black,Luxury SUV with off-road capabilities
+Land Cruiser,84791,12.79386785568573,389,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,85418,12.79634940533133,376,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,85590,13.90007928265109,372,White,Luxury SUV with off-road capabilities
+Land Cruiser,85825,11.497865597440883,391,Red,Luxury SUV with off-road capabilities
+Land Cruiser,84340,14.703938814850144,389,Red,Luxury SUV with off-road capabilities
+Land Cruiser,84174,12.922483980888591,391,White,Luxury SUV with off-road capabilities
+Land Cruiser,84195,11.89919028937266,385,White,Luxury SUV with off-road capabilities
+Land Cruiser,85525,11.390520301729984,379,Black,Luxury SUV with off-road capabilities
+Land Cruiser,85343,14.327907206499784,385,White,Luxury SUV with off-road capabilities
+Land Cruiser,84944,11.553164289953546,378,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,85722,13.444236137121976,371,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,85745,13.20073599771764,391,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,84475,14.512077764496292,391,White,Luxury SUV with off-road capabilities
+Land Cruiser,84827,11.59730246700336,383,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,85060,14.388185030953524,384,White,Luxury SUV with off-road capabilities
+Land Cruiser,84997,13.470804562440449,373,Black,Luxury SUV with off-road capabilities
+Land Cruiser,85667,14.632034492768382,383,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,85068,12.030809847717531,371,Red,Luxury SUV with off-road capabilities
+Land Cruiser,85864,11.239229961467188,376,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,85231,12.467638162677689,382,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,84874,13.618498258665046,375,White,Luxury SUV with off-road capabilities
+Land Cruiser,85064,13.408630268155873,382,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,84862,11.062960844288556,377,Red,Luxury SUV with off-road capabilities
+Land Cruiser,85111,11.29497257981647,383,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,85673,11.113362814365004,387,Red,Luxury SUV with off-road capabilities
+Land Cruiser,85151,11.438917514246961,385,Black,Luxury SUV with off-road capabilities
+Land Cruiser,84595,12.417873340740178,372,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,84285,12.586381238424085,380,Black,Luxury SUV with off-road capabilities
+Land Cruiser,84492,11.5586169828244,385,Blue,Luxury SUV with off-road capabilities
+Land Cruiser,84005,14.923489220945216,375,White,Luxury SUV with off-road capabilities
+Land Cruiser,84337,12.6215548627844,379,Silver,Luxury SUV with off-road capabilities
+Land Cruiser,85858,11.11103564539571,373,Red,Luxury SUV with off-road capabilities
+Yaris,16987,32.8232247192375,115,Red,Affordable and reliable subcompact car
+Yaris,16067,33.039048658009456,97,Red,Affordable and reliable subcompact car
+Yaris,17655,31.90958688646833,101,White,Affordable and reliable subcompact car
+Yaris,16888,30.082580776552458,113,Blue,Affordable and reliable subcompact car
+Yaris,16612,31.10517240508671,98,Blue,Affordable and reliable subcompact car
+Yaris,16037,33.52536842291933,106,White,Affordable and reliable subcompact car
+Yaris,16233,30.86453165487626,107,Blue,Affordable and reliable subcompact car
+Yaris,17377,30.821396741914292,100,White,Affordable and reliable subcompact car
+Yaris,16409,33.01202550578133,108,Silver,Affordable and reliable subcompact car
+Yaris,17945,33.38647868250244,110,Black,Affordable and reliable subcompact car
+Yaris,16451,32.7853422479349,99,Black,Affordable and reliable subcompact car
+Yaris,17507,30.852211563252933,114,Red,Affordable and reliable subcompact car
+Yaris,16664,33.974793011258974,108,Black,Affordable and reliable subcompact car
+Yaris,17782,30.96751405913834,115,Silver,Affordable and reliable subcompact car
+Yaris,16596,32.933888439568584,102,White,Affordable and reliable subcompact car
+Yaris,16107,33.17965321228997,99,Blue,Affordable and reliable subcompact car
+Yaris,17157,30.721700614571073,111,Blue,Affordable and reliable subcompact car
+Yaris,17379,30.805081889359194,116,Red,Affordable and reliable subcompact car
+Yaris,16691,32.82377514063061,115,Black,Affordable and reliable subcompact car
+Yaris,16870,33.49744540702521,102,White,Affordable and reliable subcompact car
+Yaris,17870,31.355625704738618,116,Silver,Affordable and reliable subcompact car
+Yaris,16942,31.421123845584404,102,Blue,Affordable and reliable subcompact car
+Yaris,16705,30.409666904238037,104,White,Affordable and reliable subcompact car
+Yaris,16601,31.842147777848368,112,Silver,Affordable and reliable subcompact car
+Yaris,16684,33.74771642686988,107,White,Affordable and reliable subcompact car
+Yaris,17155,33.17939247452988,113,Black,Affordable and reliable subcompact car
+Yaris,16567,33.92297098600766,105,Red,Affordable and reliable subcompact car
+Yaris,17623,30.018719520005224,103,Blue,Affordable and reliable subcompact car
+Yaris,17199,30.719751102247226,98,Black,Affordable and reliable subcompact car
+Yaris,16956,30.77876535971515,108,Red,Affordable and reliable subcompact car
+Yaris,16756,30.204092980116364,115,White,Affordable and reliable subcompact car
+Yaris,16230,32.19096814792458,114,Silver,Affordable and reliable subcompact car
+Yaris,16210,32.47181057804125,109,Silver,Affordable and reliable subcompact car
+Yaris,16405,30.86171292870339,101,White,Affordable and reliable subcompact car
+Yaris,16086,32.532934319903774,105,Black,Affordable and reliable subcompact car
+Yaris,17232,33.988762715060915,102,Red,Affordable and reliable subcompact car
+Yaris,17920,31.384620049815535,103,Blue,Affordable and reliable subcompact car
+Yaris,16912,31.207386964375655,107,Silver,Affordable and reliable subcompact car
+Yaris,16138,32.73687866302181,108,Silver,Affordable and reliable subcompact car
+Yaris,16756,33.16991197195116,112,Black,Affordable and reliable subcompact car
+Yaris,17323,31.56090153095959,108,Black,Affordable and reliable subcompact car
+Yaris,16474,32.26956068200606,97,Blue,Affordable and reliable subcompact car
+Yaris,17178,33.8651403271263,112,Silver,Affordable and reliable subcompact car
+Yaris,16277,30.862206147058796,108,Silver,Affordable and reliable subcompact car
+Yaris,16885,30.07098186235083,113,Blue,Affordable and reliable subcompact car
+Yaris,17722,31.9551029683377,115,Red,Affordable and reliable subcompact car
+Yaris,16998,33.56800293366397,106,Red,Affordable and reliable subcompact car
+Yaris,16768,33.24743393795814,97,Red,Affordable and reliable subcompact car
+Yaris,17005,33.261991502465236,103,Silver,Affordable and reliable subcompact car
+Yaris,17124,32.65151328157204,99,Silver,Affordable and reliable subcompact car
+Supra,43962,24.766724953020137,345,White,High-performance sports car with sleek design
+Supra,43362,24.118139822319677,330,Silver,High-performance sports car with sleek design
+Supra,42339,25.83949705852229,334,Black,High-performance sports car with sleek design
+Supra,42337,22.922933911673578,334,Black,High-performance sports car with sleek design
+Supra,42726,25.86633109559783,332,Black,High-performance sports car with sleek design
+Supra,42026,24.721812932671885,338,White,High-performance sports car with sleek design
+Supra,43474,24.835943239997853,331,Blue,High-performance sports car with sleek design
+Supra,43066,24.249985430688334,340,Black,High-performance sports car with sleek design
+Supra,42987,23.978046071273532,343,Silver,High-performance sports car with sleek design
+Supra,42766,24.467102320164138,341,Black,High-performance sports car with sleek design
+Supra,43537,25.427228442455377,327,Blue,High-performance sports car with sleek design
+Supra,42280,23.696288649438376,334,Black,High-performance sports car with sleek design
+Supra,43459,25.89629860255369,329,Black,High-performance sports car with sleek design
+Supra,42877,25.07683753344,337,Blue,High-performance sports car with sleek design
+Supra,42422,24.935148642280865,328,Black,High-performance sports car with sleek design
+Supra,42882,25.6910665600304,333,Blue,High-performance sports car with sleek design
+Supra,42186,24.951476430155573,341,Blue,High-performance sports car with sleek design
+Supra,43712,23.41115459586017,331,Blue,High-performance sports car with sleek design
+Supra,42926,25.88454614406252,327,Red,High-performance sports car with sleek design
+Supra,42073,25.03184605835134,333,White,High-performance sports car with sleek design
+Supra,42414,24.69432050894761,335,Blue,High-performance sports car with sleek design
+Supra,42786,22.655796001256842,337,Blue,High-performance sports car with sleek design
+Supra,42414,23.40227175132479,329,Blue,High-performance sports car with sleek design
+Supra,42479,22.231663557582852,342,White,High-performance sports car with sleek design
+Supra,43487,22.617314512733362,329,Black,High-performance sports car with sleek design
+Supra,42517,25.994391631853624,330,Black,High-performance sports car with sleek design
+Supra,43973,24.549479735224445,333,Black,High-performance sports car with sleek design
+Supra,42422,23.86784727093379,334,Blue,High-performance sports car with sleek design
+Supra,42309,23.925084085697566,336,Silver,High-performance sports car with sleek design
+Supra,43176,24.07935317706905,328,Red,High-performance sports car with sleek design
+Supra,42596,23.940535016557543,332,Silver,High-performance sports car with sleek design
+Supra,42579,23.556530709472625,334,Silver,High-performance sports car with sleek design
+Supra,43597,23.183760359744202,333,Black,High-performance sports car with sleek design
+Supra,42955,24.08302455776049,345,White,High-performance sports car with sleek design
+Supra,42584,23.091263777238066,328,Black,High-performance sports car with sleek design
+Supra,43440,25.609207492219653,337,Blue,High-performance sports car with sleek design
+Supra,42325,25.280645170274774,335,Red,High-performance sports car with sleek design
+Supra,43678,23.22353588561687,325,Blue,High-performance sports car with sleek design
+Supra,43889,23.60517600456767,345,White,High-performance sports car with sleek design
+Supra,43851,24.41890270700148,331,Silver,High-performance sports car with sleek design
+Supra,43889,24.190150841217946,344,White,High-performance sports car with sleek design
+Supra,42685,25.535798955976478,341,White,High-performance sports car with sleek design
+Supra,43388,24.43547874096358,329,Black,High-performance sports car with sleek design
+Supra,43753,22.79007953594757,330,Blue,High-performance sports car with sleek design
+Supra,42687,23.01255367672548,341,Black,High-performance sports car with sleek design
+Supra,43464,24.414942177504987,336,Red,High-performance sports car with sleek design
+Supra,43295,23.02272114563126,332,Silver,High-performance sports car with sleek design
+Supra,43959,22.05380617197675,342,Blue,High-performance sports car with sleek design
+Supra,43748,23.902013994664895,344,Silver,High-performance sports car with sleek design
+Supra,42659,25.631695720598984,333,Red,High-performance sports car with sleek design
+C-HR,21576,25.328608058023473,147,Red,Stylish compact crossover with unique design
+C-HR,21287,25.37885769025493,152,Blue,Stylish compact crossover with unique design
+C-HR,21267,26.661043919277738,142,Silver,Stylish compact crossover with unique design
+C-HR,20873,26.95361033100032,152,Black,Stylish compact crossover with unique design
+C-HR,21837,26.684044936450654,151,White,Stylish compact crossover with unique design
+C-HR,21379,26.8123498139778,147,Black,Stylish compact crossover with unique design
+C-HR,20375,28.134829924160748,143,Red,Stylish compact crossover with unique design
+C-HR,21222,26.900052204182874,151,Silver,Stylish compact crossover with unique design
+C-HR,21282,26.157105604151226,137,Red,Stylish compact crossover with unique design
+C-HR,21976,27.05578453278531,135,Silver,Stylish compact crossover with unique design
+C-HR,20261,27.106947199501,154,White,Stylish compact crossover with unique design
+C-HR,21503,25.509127365925394,149,Red,Stylish compact crossover with unique design
+C-HR,20053,28.972268402345907,144,Silver,Stylish compact crossover with unique design
+C-HR,21409,28.66276325447804,149,Red,Stylish compact crossover with unique design
+C-HR,20267,25.069464899126558,148,Silver,Stylish compact crossover with unique design
+C-HR,21307,26.16329236983533,143,White,Stylish compact crossover with unique design
+C-HR,20332,26.760998116608896,136,Black,Stylish compact crossover with unique design
+C-HR,20987,25.695520424257385,154,White,Stylish compact crossover with unique design
+C-HR,21864,26.736587592463724,153,Red,Stylish compact crossover with unique design
+C-HR,21669,27.45826813948352,140,White,Stylish compact crossover with unique design
+C-HR,21899,25.447695462672016,151,White,Stylish compact crossover with unique design
+C-HR,21437,25.303235063181596,135,Black,Stylish compact crossover with unique design
+C-HR,20973,28.967206756736786,138,White,Stylish compact crossover with unique design
+C-HR,21299,27.130124004785678,149,Silver,Stylish compact crossover with unique design
+C-HR,21233,28.756018443726568,148,Black,Stylish compact crossover with unique design
+C-HR,21093,28.05693740775052,146,Blue,Stylish compact crossover with unique design
+C-HR,21207,25.025235032895125,149,Red,Stylish compact crossover with unique design
+C-HR,21516,26.056948575335642,149,Blue,Stylish compact crossover with unique design
+C-HR,21542,28.44956257644926,154,Red,Stylish compact crossover with unique design
+C-HR,20323,28.947209417618808,145,Blue,Stylish compact crossover with unique design
+C-HR,20966,26.798293328038657,153,Blue,Stylish compact crossover with unique design
+C-HR,20715,26.45409784275245,145,Black,Stylish compact crossover with unique design
+C-HR,21269,27.648103674147855,154,Black,Stylish compact crossover with unique design
+C-HR,20269,28.093508962080996,134,White,Stylish compact crossover with unique design
+C-HR,20010,25.869504309027352,134,Red,Stylish compact crossover with unique design
+C-HR,20782,28.71010034992836,151,Red,Stylish compact crossover with unique design
+C-HR,21298,26.30354707469322,147,Silver,Stylish compact crossover with unique design
+C-HR,21603,26.231476866845348,134,Red,Stylish compact crossover with unique design
+C-HR,20292,27.426341615757032,150,Blue,Stylish compact crossover with unique design
+C-HR,20950,27.398045414091918,139,White,Stylish compact crossover with unique design
+C-HR,20156,28.695948278837307,146,Silver,Stylish compact crossover with unique design
+C-HR,20251,25.342522168044475,152,Blue,Stylish compact crossover with unique design
+C-HR,20903,26.700052246711927,143,Black,Stylish compact crossover with unique design
+C-HR,20314,26.062965876810804,151,Blue,Stylish compact crossover with unique design
+C-HR,20940,28.38426303882175,143,White,Stylish compact crossover with unique design
+C-HR,20788,25.834328418381702,137,White,Stylish compact crossover with unique design
+C-HR,21948,25.623534994656445,146,Blue,Stylish compact crossover with unique design
+C-HR,20791,26.702285159209318,150,White,Stylish compact crossover with unique design
+C-HR,20020,27.90266110186139,147,Black,Stylish compact crossover with unique design
+C-HR,21682,27.330618181693552,154,Blue,Stylish compact crossover with unique design
+Harrier,35327,25.746818478609367,299,Red,Comfortable and stylish midsize crossover
+Harrier,35858,24.39940537950775,291,Silver,Comfortable and stylish midsize crossover
+Harrier,35870,24.062464863489033,285,Blue,Comfortable and stylish midsize crossover
+Harrier,34054,26.25880527442477,301,White,Comfortable and stylish midsize crossover
+Harrier,34906,25.30271469408747,286,Blue,Comfortable and stylish midsize crossover
+Harrier,34912,24.313682823368687,289,White,Comfortable and stylish midsize crossover
+Harrier,34109,25.460465141274405,294,Red,Comfortable and stylish midsize crossover
+Harrier,35116,24.261204215417038,297,Red,Comfortable and stylish midsize crossover
+Harrier,34319,24.51788364635209,289,Red,Comfortable and stylish midsize crossover
+Harrier,34637,26.264097875627012,287,White,Comfortable and stylish midsize crossover
+Harrier,34023,26.208020312741855,301,Blue,Comfortable and stylish midsize crossover
+Harrier,34968,26.499948188384664,297,Black,Comfortable and stylish midsize crossover
+Harrier,35420,24.629974507598114,297,White,Comfortable and stylish midsize crossover
+Harrier,35521,26.103903222578968,295,Black,Comfortable and stylish midsize crossover
+Harrier,35232,27.208165860461918,305,Red,Comfortable and stylish midsize crossover
+Harrier,35319,24.45762004235771,296,Silver,Comfortable and stylish midsize crossover
+Harrier,34602,26.22351304147095,295,Red,Comfortable and stylish midsize crossover
+Harrier,34896,25.403064874232335,292,Silver,Comfortable and stylish midsize crossover
+Harrier,35389,25.5400798073857,299,White,Comfortable and stylish midsize crossover
+Harrier,34825,27.32395722076384,285,Silver,Comfortable and stylish midsize crossover
+Harrier,34673,27.712350754637633,291,Red,Comfortable and stylish midsize crossover
+Harrier,34124,25.401119457223032,297,White,Comfortable and stylish midsize crossover
+Harrier,34849,26.50057616006583,305,White,Comfortable and stylish midsize crossover
+Harrier,34450,24.541318969274485,296,Silver,Comfortable and stylish midsize crossover
+Harrier,34910,27.9132871251131,286,White,Comfortable and stylish midsize crossover
+Harrier,34527,27.387508079368068,298,Black,Comfortable and stylish midsize crossover
+Harrier,34417,27.95981078257457,302,Blue,Comfortable and stylish midsize crossover
+Harrier,34704,27.967130546943192,293,Silver,Comfortable and stylish midsize crossover
+Harrier,35648,24.952012237155007,298,Silver,Comfortable and stylish midsize crossover
+Harrier,35743,26.758687306075416,288,Black,Comfortable and stylish midsize crossover
+Harrier,34901,26.89143977226552,297,Red,Comfortable and stylish midsize crossover
+Harrier,35360,26.763024696037498,293,Blue,Comfortable and stylish midsize crossover
+Harrier,34582,26.53360190289756,294,Blue,Comfortable and stylish midsize crossover
+Harrier,35465,24.740343178251294,305,Blue,Comfortable and stylish midsize crossover
+Harrier,35139,27.58865993067997,286,Red,Comfortable and stylish midsize crossover
+Harrier,34880,26.562089085824283,294,Red,Comfortable and stylish midsize crossover
+Harrier,34654,24.177484310441,290,Blue,Comfortable and stylish midsize crossover
+Harrier,34248,24.109122010332612,302,Red,Comfortable and stylish midsize crossover
+Harrier,35847,26.460119755112128,302,White,Comfortable and stylish midsize crossover
+Harrier,34090,25.77620374975861,296,Silver,Comfortable and stylish midsize crossover
+Harrier,35511,24.417890453821737,296,White,Comfortable and stylish midsize crossover
+Harrier,35110,27.047733798075487,290,White,Comfortable and stylish midsize crossover
+Harrier,34515,24.677588931501237,288,Black,Comfortable and stylish midsize crossover
+Harrier,35399,27.94446839120789,291,Blue,Comfortable and stylish midsize crossover
+Harrier,34380,24.346065611834334,295,Blue,Comfortable and stylish midsize crossover
+Harrier,35310,26.116479986254696,288,Black,Comfortable and stylish midsize crossover
+Harrier,35862,27.318001197548185,303,Black,Comfortable and stylish midsize crossover
+Harrier,35596,24.105648335667265,300,Black,Comfortable and stylish midsize crossover
+Harrier,35276,27.97255516325096,296,White,Comfortable and stylish midsize crossover
+Harrier,34379,27.992647061387963,294,Black,Comfortable and stylish midsize crossover
